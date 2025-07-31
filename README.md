@@ -32,6 +32,16 @@ Expected output:
 
 OUT = (not A and B)
 
+## Example Output
+
+This tool converts a truth table into a logic expression:
+
+![Tool output](screenshot_output.png)
+
+The same logic implemented using gates in Turing Complete:
+
+![Game screenshot](screenshot_game.png)
+
 ## Applications
 
 - Boolean algebra simplification
