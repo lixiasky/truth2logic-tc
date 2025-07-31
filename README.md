@@ -1,4 +1,4 @@
-# truth2logic
+# truth2logic-tc
 
 A minimal command-line tool for generating simplified Boolean logic expressions from a given truth table.
 
